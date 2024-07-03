@@ -16,8 +16,29 @@ mixed.push(10);
 mixed[0] = 3;
 mixed[3] = 'yuna';
 
+
+// Objects
+let ninja = {
+    name: 'mario',
+    belt: 'black',
+    age: 30
+};
+
+ninja.age = 50;
+ninja.name = 'ryu';
+//ninja.age = '30';
+//ninja.skills = ['fighting', 'sneaking'];
+
+ninja = {
+    name: 'yoshi',
+    belt: 'orange',
+    age: 40
+};
+
 console.log(names);
 console.log();
 console.log(numbers);
 console.log();
 console.log(mixed);
+console.log();
+console.log(ninja);
