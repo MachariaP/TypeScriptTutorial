@@ -1,2 +1,1 @@
- #TypeScript Tutorial
 # TypeScriptTutorial
